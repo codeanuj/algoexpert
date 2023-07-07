@@ -19,9 +19,3 @@ n == mat[i].length
 1 <= m, n <= 104
 1 <= m * n <= 104
 -105 <= mat[i][j] <= 105
-Accepted
-247.9K
-Submissions
-424.2K
-Acceptance Rate
-58.4%
